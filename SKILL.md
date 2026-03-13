@@ -13,7 +13,7 @@ description: >
 # PrivyPad API Skill
 
 PrivyPad is a zero-knowledge encrypted notes app. This skill covers all interactions
-with its public REST API (`https://privypad.com/api/v1/`).
+with its public REST API (`https://www.privypad.com/api/v1/`).
 
 ---
 
