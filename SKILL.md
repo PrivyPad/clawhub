@@ -36,7 +36,7 @@ are only available in a browser context; do not attempt to call them from script
 ## Base URL
 
 ```
-https://privypad.com/api/v1
+https://www.privypad.com/api/v1
 ```
 
 ---
